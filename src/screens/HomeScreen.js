@@ -159,10 +159,7 @@ const HomeScreen = ({ navigation }) => {
             <Ionicons name="chevron-down" size={16} color="#8E8E93" />
           </TouchableOpacity>
           
-          <TouchableOpacity style={styles.newButton}>
-            <Text style={styles.newButtonText}>New</Text>
-            <Ionicons name="chevron-down" size={16} color="#8E8E93" />
-          </TouchableOpacity>
+          
         </View>
       </View>
 
